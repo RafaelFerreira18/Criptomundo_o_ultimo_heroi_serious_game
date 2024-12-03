@@ -1,0 +1,11 @@
+state = "idle";                // Estado inicial
+hp = 300;                      // Vida inicial do inimigo
+max_hp = 300;
+move_x = 0;                    // Velocidade horizontal
+move_y = 0;                    // Velocidade vertical (gravidade)
+move_speed = 2;                // Velocidade de movimento
+attack_timer = 0;              // Timer de ataque
+hurt = false;                  // Indica se o inimigo está ferido
+hurt_timer = 0;                // Timer para efeito de "fuga" após ser ferido
+enemy_defeated = false;        // Flag que indica se o inimigo foi derrotado
+action_timer = 0;  
