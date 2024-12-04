@@ -45,7 +45,7 @@ Será que você conseguirá restaurar o equilíbrio antes que seja tarde demais?
 ## 🚀 Como Jogar  
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone git@github.com:RafaelFerreira18/Criptomundo_o_ultimo_heroi_serious_game.git
 2. Execute o jogo no GameMaker ou baixe o executável disponível na aba de Releases.
 3. Use os controles listados acima para navegar pelas fases e resolver os desafios.
 
