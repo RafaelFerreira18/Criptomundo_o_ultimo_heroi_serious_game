@@ -1,5 +1,10 @@
 # Criptomundo: O Último Herói  
 
+## Desenvolvedores
+- Rafael Ferreira
+- João Pedro Follmann
+- Luís Antônio Moraes
+
 **Um jogo de plataforma que combina desafios de criptografia, puzzles inteligentes e batalhas épicas entre irmãos.**  
 
 ## 📖 Sobre o Jogo  
